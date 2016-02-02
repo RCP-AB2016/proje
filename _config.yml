@@ -10,14 +10,14 @@ markdown: 			 redcarpet
 title:               R-338 Takım RCP Proje Sayfası
 tagline:             'Akademik Bilişim 2016'
 description:         'NBA DRAFT'
-url:                 http://r338.github.io/ab-2016
-baseurl:             
+url:                 http://rcp-ab2016.github.io/
+baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              'Takım elemanları'
-  url:               http://r338.github.io/takim-taslak
+  url:               http://rcp-ab2016.github.io/
   email:             
 
 # Custom vars
