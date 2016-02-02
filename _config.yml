@@ -11,7 +11,7 @@ title:               R-338 Takım RCP Proje Sayfası
 tagline:             'Akademik Bilişim 2016'
 description:         'NBA DRAFT'
 url:                 http://rcp-ab2016.github.io/
-baseurl:             ''
+baseurl:             '/proje'
 paginate:            5
 
 # About/contact
